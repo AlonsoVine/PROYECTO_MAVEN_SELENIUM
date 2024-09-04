@@ -1,0 +1,6 @@
+entities\user\User.class
+entities\user\Address.class
+entities\Monstruo.class
+entities\user\Company.class
+entities\user\Geo.class
+principal\Main.class

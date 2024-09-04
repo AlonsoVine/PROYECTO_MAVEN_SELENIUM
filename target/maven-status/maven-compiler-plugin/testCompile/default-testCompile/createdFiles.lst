@@ -1,0 +1,11 @@
+utilities\WebDriverProvider.class
+annotations\Smoke.class
+utilities\FileManager.class
+listeners\SuiteListeners.class
+utilities\BaseTest.class
+listeners\AllureListeners.class
+automation\NavigationTests.class
+listeners\TestListeners.class
+listeners\AllureListeners$1.class
+utilities\Logs.class
+annotations\Regression.class

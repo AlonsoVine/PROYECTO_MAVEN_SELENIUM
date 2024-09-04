@@ -1,0 +1,37 @@
+14:53:15.028 INFO  AUTOMATION - on start
+
+14:53:15.096 DEBUG AUTOMATION - Init driver
+14:53:16.806 DEBUG AUTOMATION - Maximizing Window
+14:53:16.810 DEBUG AUTOMATION - Cleaning cookies
+14:53:16.827 INFO  AUTOMATION - On test start: firstTest
+14:53:16.867 DEBUG AUTOMATION - Borrando la evidencia anterior
+14:53:16.870 INFO  AUTOMATION - Navegando a https://www.saucedemo.com/
+14:53:17.143 INFO  AUTOMATION - Obteniendo la url actual
+14:53:17.150 INFO  AUTOMATION - Verificando que las urls sean iguales
+14:53:17.162 INFO  AUTOMATION - Test Passed
+14:53:17.164 DEBUG AUTOMATION - Killing driver
+14:53:17.346 DEBUG AUTOMATION - Init driver
+14:53:18.219 DEBUG AUTOMATION - Maximizing Window
+14:53:18.219 DEBUG AUTOMATION - Cleaning cookies
+14:53:18.235 INFO  AUTOMATION - On test start: secondTest
+14:53:18.235 DEBUG AUTOMATION - Borrando la evidencia anterior
+14:53:18.236 INFO  AUTOMATION - Navegando a https://the-internet.herokuapp.com/
+14:53:19.603 INFO  AUTOMATION - Navegando a https://www.saucedemo.com/
+14:53:19.881 INFO  AUTOMATION - Volviendo a la url anterior
+14:53:19.914 INFO  AUTOMATION - Obteniendo la url actual
+14:53:19.930 INFO  AUTOMATION - Verificando que la url sea la inicial https://the-internet.herokuapp.com/
+14:53:19.930 INFO  AUTOMATION - Test Passed
+14:53:19.931 DEBUG AUTOMATION - Killing driver
+14:53:20.094 DEBUG AUTOMATION - Init driver
+14:53:21.058 DEBUG AUTOMATION - Maximizing Window
+14:53:21.058 DEBUG AUTOMATION - Cleaning cookies
+14:53:21.068 INFO  AUTOMATION - On test start: thirdTest
+14:53:21.069 DEBUG AUTOMATION - Borrando la evidencia anterior
+14:53:21.069 INFO  AUTOMATION - Navegando a https://the-internet.herokuapp.com/
+14:53:22.413 INFO  AUTOMATION - Obteniendo la url actual
+14:53:22.423 INFO  AUTOMATION - verificando las url
+14:53:22.427 INFO  AUTOMATION - Test Failure
+14:53:22.427 DEBUG AUTOMATION - Taking screenshot
+14:53:22.555 DEBUG AUTOMATION - Killing driver
+14:53:22.708 INFO  AUTOMATION - on finish
+
