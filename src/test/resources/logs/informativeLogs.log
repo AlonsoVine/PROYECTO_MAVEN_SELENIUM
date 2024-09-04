@@ -1,0 +1,9 @@
+09:21:32.559 INFO  AUTOMATION - on start
+
+09:21:46.847 INFO  AUTOMATION - On test start: thirdTest
+09:21:46.920 INFO  AUTOMATION - Navegando a https://the-internet.herokuapp.com/
+09:21:48.251 INFO  AUTOMATION - Obteniendo la url actual
+09:21:48.269 INFO  AUTOMATION - verificando las url
+09:21:48.361 INFO  AUTOMATION - Test Failure
+09:21:49.266 INFO  AUTOMATION - on finish
+

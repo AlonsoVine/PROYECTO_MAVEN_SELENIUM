@@ -1,0 +1,57 @@
+11:59:49.138 INFO  AUTOMATION - Before test
+11:59:49.150 DEBUG AUTOMATION - Obteniendo la lista e monstruos del excel
+11:59:49.302 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:59:49.405 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:59:49.703 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:59:49.705 INFO  AUTOMATION - Verificamos que el tercer nivel sea de 22
+11:59:49.709 INFO  AUTOMATION - After test
+11:59:49.713 INFO  AUTOMATION - Test correcto
+11:59:49.713 INFO  AUTOMATION - 
+11:59:49.803 INFO  AUTOMATION - Before test
+11:59:49.803 DEBUG AUTOMATION - Obteniendo la lista e monstruos del excel
+11:59:49.816 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:59:49.817 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:59:49.834 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:59:49.835 INFO  AUTOMATION - Verificamos que el último elemento tenga los datos deseados.
+11:59:49.837 INFO  AUTOMATION - After test
+11:59:49.838 INFO  AUTOMATION - Test correcto
+11:59:49.838 INFO  AUTOMATION - 
+11:59:49.842 INFO  AUTOMATION - Before test
+11:59:49.842 DEBUG AUTOMATION - Obteniendo la lista e monstruos del excel
+11:59:49.848 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:59:49.850 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:59:49.864 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:59:49.865 INFO  AUTOMATION - Verificamos que el primer nombre es TOLOSA.
+11:59:49.866 INFO  AUTOMATION - After test
+11:59:49.866 INFO  AUTOMATION - Test correcto
+11:59:49.866 INFO  AUTOMATION - 
+11:59:49.874 INFO  AUTOMATION - Before test
+11:59:49.874 DEBUG AUTOMATION - Obteniendo la lista e monstruos del excel
+11:59:49.885 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:59:49.888 DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:59:49.901 DEBUG org.apache.poi.openxml4j.opc.OPCPackage - The close() method is intended to SAVE a package. This package is open in READ ONLY mode, use the revert() method instead!
+11:59:49.901 INFO  AUTOMATION - Verificamos la longitud de la lista.
+11:59:49.902 INFO  AUTOMATION - After test
+11:59:49.902 INFO  AUTOMATION - Test correcto
+11:59:49.902 INFO  AUTOMATION - 
+11:59:49.904 INFO  AUTOMATION - Test desabilitado
+11:59:49.921 INFO  AUTOMATION - Before test
+11:59:50.158 INFO  AUTOMATION - verificamos que la longitud de company.bs sea > 10
+11:59:50.159 INFO  AUTOMATION - After test
+11:59:50.159 INFO  AUTOMATION - Test correcto
+11:59:50.159 INFO  AUTOMATION - 
+11:59:50.164 INFO  AUTOMATION - Before test
+11:59:50.166 INFO  AUTOMATION - Verificamos que el user.id sea > 0.
+11:59:50.166 INFO  AUTOMATION - After test
+11:59:50.166 INFO  AUTOMATION - Test correcto
+11:59:50.166 INFO  AUTOMATION - 
+11:59:50.178 INFO  AUTOMATION - Before test
+11:59:50.181 INFO  AUTOMATION - verificamos que la longitud sea 71.7478
+11:59:50.181 INFO  AUTOMATION - After test
+11:59:50.181 INFO  AUTOMATION - Test correcto
+11:59:50.181 INFO  AUTOMATION - 
+11:59:50.186 INFO  AUTOMATION - Before test
+11:59:50.189 INFO  AUTOMATION - Verificamos que los datos del Json son los esperados.
+11:59:50.190 INFO  AUTOMATION - After test
+11:59:50.191 INFO  AUTOMATION - Test correcto
+11:59:50.192 INFO  AUTOMATION - 

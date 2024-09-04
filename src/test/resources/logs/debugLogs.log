@@ -1,0 +1,17 @@
+09:21:32.559 INFO  AUTOMATION - on start
+
+09:21:32.656 DEBUG AUTOMATION - Init driver
+09:21:46.818 DEBUG AUTOMATION - Maximizing Window
+09:21:46.824 DEBUG AUTOMATION - Cleaning cookies
+09:21:46.847 INFO  AUTOMATION - On test start: thirdTest
+09:21:46.913 DEBUG AUTOMATION - Borrando la evidencia anterior
+09:21:46.920 INFO  AUTOMATION - Navegando a https://the-internet.herokuapp.com/
+09:21:48.251 INFO  AUTOMATION - Obteniendo la url actual
+09:21:48.269 INFO  AUTOMATION - verificando las url
+09:21:48.361 INFO  AUTOMATION - Test Failure
+09:21:48.361 DEBUG AUTOMATION - Taking screenshot
+09:21:48.522 DEBUG AUTOMATION - Tomando el nombre del archivo
+09:21:48.523 DEBUG AUTOMATION - Creando los directorios padres si es que no existen
+09:21:48.888 DEBUG AUTOMATION - Killing driver
+09:21:49.266 INFO  AUTOMATION - on finish
+
